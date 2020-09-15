@@ -5,25 +5,33 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Software](#software)
+- [Hardware](#hardware)
+- [Crypto](#crypto)
 
-
-## Section
+## Software
 
 About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+### Miner
+### Analytics
+### 
 
-## Another Section
+## Hardware
 
-### Subsection
+### Hotspots
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+### Antennas
+
+## Crypto
+
+### Exchangers 
 
 ## Contribute
 
