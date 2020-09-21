@@ -21,10 +21,9 @@
 
 ### Explorers/Analytics/Hotspot analysis
 
-- [Helium Explorer](https://explorer.helium.com) (open-source)
-- [Sitebot](https://sitebot.com)
-- [Mylar](https://mylar.app)
-
+* [Helium Explorer](https://explorer.helium.com) (open-source)
+* [Sitebot](https://sitebot.com)
+* [Mylar](https://mylar.app)
 * [Helium Network Map](https://network.helium.com)
 * [Helium Coverage-validation project map](https://mappers.helium.com)
 
