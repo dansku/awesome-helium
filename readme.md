@@ -10,6 +10,13 @@
 - [Hardware](#hardware)
 - [Exchanges](#exchanges)
 
+---
+
+## Community
+
+* [Discord](http://discord.gg/helium) - Chat with many people, very busy 
+* [Forum](https://community.helium.com/) - Helium forum (not so busy)
+
 ## Software
 
 ### Explorers/Analytics/Hotspot analysis
@@ -34,6 +41,11 @@ Build tutorials
 * [https://github.com/just4give/helium-dyi-hotspot-balena-pi4](https://github.com/just4give/helium-dyi-hotspot-balena-pi4) - "Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS"
 * [jamiew/helium-diy-hotspot](https://github.com/jamiew/helium-diy-hotspot) - collection of shell scripts for setting up, updating, and monitoring a DIY hotspot
 
+Video tutorials
+
+* [Setting up a Helium miner on DigitalOcean](https://www.youtube.com/watch?v=rR2Z0vOufLM)
+* [Adding a DIY Hotspot to the Helium Blockchain](https://www.youtube.com/watch?v=SzFWSv6UcIE)
+
 ## Hardware
 
 ### Hotspots
@@ -45,8 +57,8 @@ Build tutorials
 
 ### Antennas
 
-* RAK 5.8dbi
-* Nearson 9dbi
+* RAK 5.8dBi
+* Nearson 9dBi
 * ...
 
 ### Cables & adapters
@@ -58,6 +70,7 @@ Build tutorials
 * Binance US
 * Bilaxy
 * OTC Telegram groups
+* HotBit
 
 ## Contribute
 
