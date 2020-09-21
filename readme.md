@@ -16,6 +16,7 @@
 
 * [Discord](http://discord.gg/helium) - Chat with many people, very busy 
 * [Forum](https://community.helium.com/) - Helium forum (not so busy)
+* [Monthly community calls](https://docs.google.com/document/d/1bMm2alBigBj3detA775Dn0Gz9UM5XczAeK9vnjBB3l0/edit#) - noon ET on the last Wednesday of the month
 
 ## Software
 
