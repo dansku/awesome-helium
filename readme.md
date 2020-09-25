@@ -41,6 +41,7 @@ Build tutorials
 * [bottxrnife/helium-2287](https://github.com/bottxrnife/helium-2245) - Above but for RAK2287-based builds, like the RAK Discover Kit 2 (SX1302-based chip)
 * [https://github.com/just4give/helium-dyi-hotspot-balena-pi4](https://github.com/just4give/helium-dyi-hotspot-balena-pi4) - "Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS"
 * [jamiew/helium-diy-hotspot](https://github.com/jamiew/helium-diy-hotspot) - Collection of shell scripts for setting up, updating, and monitoring a DIY hotspot
+* [meshferg/lorawan-helium-diy-gateway_miner](https://github.com/meshferg/lorawan-helium-diy-gateway_miner ) - RAK2245 & rPi4 gateway miner collecting wetlands data
 
 Video tutorials
 
