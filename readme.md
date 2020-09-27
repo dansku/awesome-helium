@@ -59,7 +59,8 @@ Video tutorials
 
 ### Antennas
 
-* RAK 5.8dBi
+* [RAK 5.8dBi](https://store.rakwireless.com/products/fiber-glass-antenna)
+  * [5.8 dBi Base support 3D STL File](https://www.thingiverse.com/thing:4607962)
 * Nearson 9dBi
 * ...
 
