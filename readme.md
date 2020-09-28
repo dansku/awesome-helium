@@ -49,6 +49,11 @@ Video tutorials
 * [Setting up a Helium miner on DigitalOcean](https://www.youtube.com/watch?v=rR2Z0vOufLM)
 * [Adding a DIY Hotspot to the Helium Blockchain](https://www.youtube.com/watch?v=SzFWSv6UcIE)
 
+### Payload Decoders
+
+* [VolleyBoast VoBo GP1](https://github.com/VolleyBoast/Decoder) - Decodes standard payload 
+
+
 ## Hardware
 
 ### Hotspots
