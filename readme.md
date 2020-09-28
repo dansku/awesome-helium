@@ -14,20 +14,20 @@
 
 ## Community
 
-* [Discord](http://discord.gg/helium) - Chat with many people, very busy 
+* [Discord](http://discord.gg/helium) - Official Helium Community Discord; many people, very busy 
 * [Forum](https://community.helium.com/) - Helium forum (not so busy)
-* [Monthly community calls](https://docs.google.com/document/d/1bMm2alBigBj3detA775Dn0Gz9UM5XczAeK9vnjBB3l0/edit#) - noon ET on the last Wednesday of the month
+* [Monthly Community Calls](https://docs.google.com/document/d/1bMm2alBigBj3detA775Dn0Gz9UM5XczAeK9vnjBB3l0/edit#) - Noon ET on the last Wednesday of the month
 
 ## Software
 
 ### Explorers/Analytics/Hotspot analysis
 
 * [Helium Explorer](https://explorer.helium.com) (open-source)
-* [Sitebot](https://sitebot.com)
-* [Mylar](https://mylar.app)
 * [Helium Network Map](https://network.helium.com)
-* [Helium Coverage-validation project map](https://mappers.helium.com)
-* [Cargo](https://cargo.helium.com/) Live mapper
+* [Sitebot](https://sitebot.com/helium)
+* [Mylar](https://mylar.app)
+* [Helium Coverage Mapping](https://mappers.helium.com)d
+* [Cargo Live Mapper](https://cargo.helium.com/) 
 
 
 ### DIY Hotspots
@@ -53,9 +53,16 @@ Video tutorials
 ### Hotspots
 
 * Helium official hotspot
+* [RAK Hotspot Miner](https://www.calchipconnect.com/products/rak-hotspot-miner)	
 * Dragino LPS8
 * DIY gateway builds
 * ...
+
+### Sensor Guides and Tutorial
+
+* [Browan TBHV110 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/BrowanTBHV110_HeliumQuickStart-SHARE.pdf)
+* [Browan TBHH100 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf)
+
 
 ### Antennas
 
