@@ -26,7 +26,7 @@
 * [Helium Network Map](https://network.helium.com)
 * [Sitebot](https://sitebot.com/helium)
 * [Mylar](https://mylar.app)
-* [Helium Coverage Mapping](https://mappers.helium.com)d
+* [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/) 
 
 
