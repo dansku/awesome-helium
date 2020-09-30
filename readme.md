@@ -43,7 +43,7 @@ Build tutorials
 * [jamiew/helium-diy-hotspot](https://github.com/jamiew/helium-diy-hotspot) - Collection of shell scripts for setting up, updating, and monitoring a DIY hotspot
 * [23RoMax/h2b](https://github.com/23RoMax/h2b) - Helium DIY Hotspot Bootstrapping script with a few utilities
 * [meshferg/lorawan-helium-diy-gateway_miner](https://github.com/meshferg/lorawan-helium-diy-gateway_miner ) - RAK2245 & rPi4 gateway miner collecting wetlands data
-
+* [dansku/helium-rak833-pisupply](https://github.com/dansku/helium-rak833-pisupply) PiSupply LoRa Gateway with the RAK833 for Helium.
 Video tutorials
 
 * [Setting up a Helium miner on DigitalOcean](https://www.youtube.com/watch?v=rR2Z0vOufLM)
