@@ -37,7 +37,7 @@ Build tutorials
 * [maco2035/DiyHeliumHotspots](https://github.com/maco2035/DiyHeliumHotspots) - Collection of guides for setting up various builds
 * [PastaGringo/balenaos-helium-gtw](https://github.com/PastaGringo/balenaos-helium-gtw) - BelanaCloud-based build with docker-compose
 * [bottxrnife/helium-2245](https://github.com/bottxrnife/helium-2245) - Forked from PastaGringo, BelanaCloud + docker-conmpose configuration for RAK2245-based builds, like the RAK Pilot Gateway (SX1301-based chip)
-* [bottxrnife/helium-2287](https://github.com/bottxrnife/helium-2245) - Above but for RAK2287-based builds, like the RAK Discover Kit 2 (SX1302-based chip)
+* [bottxrnife/helium-2287](https://github.com/bottxrnife/helium-2287) - Above but for RAK2287-based builds, like the RAK Discover Kit 2 (SX1302-based chip)
 * [just4give/helium-dyi-hotspot-balena-pi4](https://github.com/just4give/helium-dyi-hotspot-balena-pi4) - "Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS"
 * [jamiew/helium-diy-hotspot](https://github.com/jamiew/helium-diy-hotspot) - Collection of shell scripts for setting up, updating, and monitoring a DIY hotspot
 * [23RoMax/h2b](https://github.com/23RoMax/h2b) - Helium DIY Hotspot Bootstrapping script with a few utilities
