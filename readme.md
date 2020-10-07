@@ -33,6 +33,7 @@
 
 Build tutorials
 
+* [DIY Hotspot auto update automation scripts](https://github.com/Wheaties466/helium_miner_scripts) - Wheaties466/helium_miner_scripts, automation for setting up DIY hotspots. All things DIY.
 * [Helium developer docs guide](https://developer.helium.com/hotspot/developer-setup) - Pilot Gateway (sx1301-based)
 * [maco2035/DiyHeliumHotspots](https://github.com/maco2035/DiyHeliumHotspots) - Collection of guides for setting up various builds
 * [PastaGringo/balenaos-helium-gtw](https://github.com/PastaGringo/balenaos-helium-gtw) - BelanaCloud-based build with docker-compose
