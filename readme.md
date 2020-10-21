@@ -27,7 +27,7 @@
 * [Mylar](https://mylar.app)
 * [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/) 
-
+* [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 
 ### DIY Hotspots
 
