@@ -29,6 +29,7 @@
 * [Cargo Live Mapper](https://cargo.helium.com/) 
 * [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 * [Helium Chain Variables](https://helium.plus/chain-vars)
+* [LoRa documentation](https://lora.readthedocs.io/en/latest/)
 
 ### DIY Hotspots
 
