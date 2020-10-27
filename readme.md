@@ -18,6 +18,8 @@
 * [Monthly Community Calls](https://docs.google.com/document/d/1bMm2alBigBj3detA775Dn0Gz9UM5XczAeK9vnjBB3l0/edit#) - Noon ET on the last Wednesday of the month
 
 ## Software
+### Docker Miner
+* [Blockchain Sync Progress Script](https://github.com/Doginal/helium-network-scripts) - Bash script to get the current progress of your Helium miner running via docker
 
 ### Explorers/Analytics/Hotspot analysis
 
