@@ -16,6 +16,7 @@
 
 * [Discord](http://discord.gg/helium) - Official Helium Community Discord; many people, very busy 
 * [Monthly Community Calls](https://docs.google.com/document/d/1bMm2alBigBj3detA775Dn0Gz9UM5XczAeK9vnjBB3l0/edit#) - Noon ET on the last Wednesday of the month
+* [Weekly Helium Hacks Happy Hour](https://zoom.us/meeting/register/tJ0qdeyorDgqHdbWZTQhBSphsFEytiyc5BiP) - Every Wednesday at 3p PT
 
 ## Software
 ### Docker Miner
@@ -32,6 +33,11 @@
 * [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 * [Helium Chain Variables](https://helium.plus/chain-vars)
 * [LoRa documentation](https://lora.readthedocs.io/en/latest/)
+* [Cloud-RF](https://cloudrf.com/) - RF coverage modeling and mapping utility
+
+### Mobile Apps
+
+* [Unofficial Hotspot Utility](https://github.com/kent-williams/hotspot-utility) - Unofficial Android/iPhone Hotspot Utility
 
 ### DIY Hotspots
 
@@ -55,7 +61,8 @@ Video tutorials
 
 ### Payload Decoders
 
-* [VolleyBoast VoBo GP1](https://github.com/VolleyBoast/Decoder) - Decodes standard payload 
+* [VolleyBoast VoBo GP1](https://github.com/VolleyBoast/Decoder) - Decodes standard payload
+* [Helium Decoder Repo](https://github.com/helium/console-decoders)
 
 
 ## Hardware
