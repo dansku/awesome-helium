@@ -57,7 +57,8 @@ Video tutorials
 
 ### Payload Decoders
 
-* [VolleyBoast VoBo GP1](https://github.com/VolleyBoast/Decoder) - Decodes standard payload 
+* [VolleyBoast VoBo GP1](https://github.com/VolleyBoast/Decoder) - Decodes standard payload
+* [Helium Decoder Repo](https://github.com/helium/console-decoders)
 
 
 ## Hardware
