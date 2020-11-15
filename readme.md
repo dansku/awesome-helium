@@ -35,6 +35,10 @@
 * [LoRa documentation](https://lora.readthedocs.io/en/latest/)
 * [Cloud-RF](https://cloudrf.com/) - RF coverage modeling and mapping utility
 
+### Mobile Apps
+
+* [Unofficial Hotspot Utility](https://github.com/kent-williams/hotspot-utility) - Unofficial Android/iPhone Hotspot Utility
+
 ### DIY Hotspots
 
 Build tutorials
