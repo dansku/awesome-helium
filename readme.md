@@ -87,6 +87,7 @@ Video tutorials
 * [RAK 5.8dBi](https://store.rakwireless.com/products/fiber-glass-antenna)
   * [5.8 dBi Base support 3D STL File](https://www.thingiverse.com/thing:4607962)
 * Nearson 9dBi
+* [ANT-916-MHW-RPS-S](https://linxtechnologies.com/wp/wp-content/uploads/ant-916-mhw-fff-x.pdf) - Indoor antenna - pdf
 * ...
 
 ### Cables & adapters
