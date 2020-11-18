@@ -9,6 +9,7 @@
 - [Software](#software)
 - [Hardware](#hardware)
 - [Exchanges](#exchanges)
+- [Education](#education)
 
 ---
 
@@ -105,6 +106,10 @@ Video tutorials
 * Bilaxy
 * OTC Telegram groups
 * HotBit
+
+## Education
+
+ * [LoRaWAN Academy](https://lora-developers.semtech.com/resources/lorawan-academy/) - self-paced on-demand LoRaWAN training course
 
 ## Contribute
 
