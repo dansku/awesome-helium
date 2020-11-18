@@ -88,7 +88,7 @@ Video tutorials
 
 ### Antennas
 
-* [OG Stock Hotspot Antenna](https://www.mouser.com/datasheet/2/238/ant-916-cw-hwr-1633319.pdf) - pdf
+* [OG Stock Hotspot Antenna](https://www.mouser.com/datasheet/2/238/ant-916-cw-hwr-1633319.pdf) - (pdf datasheet)
 * [RAK 5.8dBi](https://store.rakwireless.com/products/fiber-glass-antenna)
   * [5.8 dBi Base support 3D STL File](https://www.thingiverse.com/thing:4607962)
 * Nearson 9dBi
