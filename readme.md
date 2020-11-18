@@ -20,7 +20,12 @@
 
 ## Software
 ### Docker Miner
+
 * [Blockchain Sync Progress Script](https://github.com/Doginal/helium-network-scripts) - Bash script to get the current progress of your Helium miner running via docker
+
+### Development Environments
+
+* [Leroy's Updated & Unofficial CubeCell repo](https://github.com/leroyle/ASR650x-Arduino) - Heltec ASR650x; Heavily improved.
 
 ### Explorers/Analytics/Hotspot analysis
 
