@@ -87,6 +87,10 @@ Video tutorials
 * [Browan TBHH100 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf)
 * [Connect a RAK7204 to Helium and forward its data to Ubidots](https://www.hackster.io/mariacarlinahernandez/connect-a-rak7204-to-helium-and-forward-its-data-to-ubidots-073793)
 
+### Coverage Mapping
+
+* [CubeCell Helium Coverage Mapper](https://github.com/jas-williams/CubeCell-Helium-Mapper) - Mapper using the CubeCell w/ GPS/OLED by jas-williams
+
 ### Antennas
 
 * [OG Stock Hotspot Antenna](https://www.mouser.com/datasheet/2/238/ant-916-cw-hwr-1633319.pdf) - (pdf datasheet)
