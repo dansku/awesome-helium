@@ -88,6 +88,7 @@ Video tutorials
 * [Browan TBHV110 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/BrowanTBHV110_HeliumQuickStart-SHARE.pdf)
 * [Browan TBHH100 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf)
 * [Connect a RAK7204 to Helium and forward its data to Ubidots](https://www.hackster.io/mariacarlinahernandez/connect-a-rak7204-to-helium-and-forward-its-data-to-ubidots-073793)
+* [KiCAD version of WisBlock-Sensor-RTC-Example](https://github.com/ManuIoT/WisBlock-Sensor-RTC-Example)
 
 ### Coverage Mapping
 
