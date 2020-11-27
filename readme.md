@@ -10,6 +10,7 @@
 - [Hardware](#hardware)
 - [Exchanges](#exchanges)
 - [Education](#education)
+- [Network Operators](#netops)
 
 ---
 
@@ -28,7 +29,7 @@
 
 * [Leroy's Updated & Unofficial CubeCell repo](https://github.com/leroyle/ASR650x-Arduino) - Heltec ASR650x; Heavily improved.
 
-### Explorers/Analytics/Hotspot analysis
+### Explorers/Analytics/Hotspot Analysis
 
 * [Helium Explorer](https://explorer.helium.com) (open-source)
 * [Helium Network Map](https://network.helium.com)
@@ -40,6 +41,7 @@
 * [Helium Chain Variables](https://helium.plus/chain-vars)
 * [LoRa documentation](https://lora.readthedocs.io/en/latest/)
 * [Cloud-RF](https://cloudrf.com/) - RF coverage modeling and mapping utility
+* [Patrium](https://patrium.app/) - Hotspot Management Platform
 
 ### Mobile Apps
 
@@ -114,6 +116,10 @@ Video tutorials
 ## Education
 
  * [LoRaWAN Academy](https://lora-developers.semtech.com/resources/lorawan-academy/) - self-paced on-demand LoRaWAN training course
+
+## Network Operators
+
+ * [IoWe (Internet of We)](https://www.InternetOfWe.net) - Hotspot infrastructure provider & operator : Earn passive income. Grow #ThePeoplesNetwork.
 
 ## Contribute
 
