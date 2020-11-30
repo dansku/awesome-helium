@@ -42,6 +42,7 @@
 * [LoRa documentation](https://lora.readthedocs.io/en/latest/)
 * [Cloud-RF](https://cloudrf.com/) - RF coverage modeling and mapping utility
 * [Patrium](https://patrium.app/) - Hotspot Management Platform
+* [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
 
 ### Mobile Apps
 
