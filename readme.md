@@ -43,6 +43,7 @@
 * [Cloud-RF](https://cloudrf.com/) - RF coverage modeling and mapping utility
 * [Patrium](https://patrium.app/) - Hotspot Management Platform
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
+* [Helium+](https://helium.plus/) Helium Hotspot Earnings Calculator
 
 ### Mobile Apps
 
