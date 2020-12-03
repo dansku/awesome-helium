@@ -31,9 +31,10 @@
 
 ### Explorers/Analytics/Hotspot Analysis
 
-* [Helium Explorer](https://explorer.helium.com) (open-source)
+* [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
 * [Helium Network Map](https://network.helium.com)
 * [Sitebot](https://sitebot.com/helium)
+* [Hotspotty](https://hotspotty.net) Hotspot management platform
 * [Mylar](https://mylar.app)
 * [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/) 
@@ -41,9 +42,9 @@
 * [Helium Chain Variables](https://helium.plus/chain-vars)
 * [LoRa documentation](https://lora.readthedocs.io/en/latest/)
 * [Cloud-RF](https://cloudrf.com/) - RF coverage modeling and mapping utility
-* [Patrium](https://patrium.app/) - Hotspot Management Platform
+* [Patrium](https://patrium.app/) - Another hotspot management platform
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
-* [Helium+](https://helium.plus/) Helium Hotspot Earnings Calculator
+* [Helium+](https://helium.plus/) Helium hotspot earnings calculator
 
 ### Mobile Apps
 
