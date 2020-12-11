@@ -123,7 +123,14 @@ Video tutorials
 
 ## Network Operators
 
- * [IoWe (Internet of We)](https://www.InternetOfWe.net) - Hotspot infrastructure provider & operator : Earn passive income. Grow #ThePeoplesNetwork.
+Interested in hosting a hotspot? Get in touch with one of these companies:
+
+ * [IoWe (Internet of We)](https://www.InternetOfWe.net) - 50% of HNT earnings, 25% of referral earnings
+ * [Emrit](https://emrit.io/) – 20% of HNT earnings
+ * [Hostify](https://www.hostify.cc/) - New Jersey-only. $35+/monthly, $50+/referral
+ * [Loris.club](https://www.loris.club) - 25% of HNT earnings
+ * [Buildmesh.io](https://www.buildmesh.io/) - 20% of HNT earnings plus $10 donation to STEM non-profit
+
 
 ## Contribute
 
