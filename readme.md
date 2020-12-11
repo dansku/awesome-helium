@@ -126,11 +126,12 @@ Video tutorials
 
 Interested in hosting a hotspot? Get in touch with one of these companies:
 
- * [IoWe (Internet of We)](https://www.InternetOfWe.net) - 50% of HNT earnings, 25% of referral earnings
+ * [Buildmesh.io](https://www.buildmesh.io/) - 20% of HNT earnings plus $10 donation to STEM non-profit
  * [Emrit](https://emrit.io/) – 20% of HNT earnings
  * [Hostify](https://www.hostify.cc/) - New Jersey-only. $35+/monthly, $50+/referral
+ * [IoWe (Internet of We)](https://www.InternetOfWe.net) - 50% of HNT earnings, 25% of referral earnings
  * [Loris.club](https://www.loris.club) - 25% of HNT earnings
- * [Buildmesh.io](https://www.buildmesh.io/) - 20% of HNT earnings plus $10 donation to STEM non-profit
+ * [ZataFi](https://zatafi.com/ShareNet/) - 50% of HNT eearnings
 
 
 ## Contribute
