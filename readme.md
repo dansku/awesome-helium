@@ -112,10 +112,11 @@ Video tutorials
 
 ## Exchanges
 
-* Binance US
-* Bilaxy
+* [Binance US](https://www.binance.us)
+* [Binance](https://www.binance.com/)
+* [Bilaxy](https://bilaxy.com/)
 * OTC Telegram groups
-* HotBit
+* [HotBit](hotbit.io/)
 
 ## Education
 
