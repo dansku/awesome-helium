@@ -10,7 +10,7 @@
 - [Hardware](#hardware)
 - [Exchanges](#exchanges)
 - [Education](#education)
-- [Network Operators](#netops)
+- [Network Operators](#network-operators)
 
 ---
 
