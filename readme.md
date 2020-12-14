@@ -131,7 +131,7 @@ Interested in hosting a hotspot? Get in touch with one of these companies:
  * [Hostify](https://www.hostify.cc/) - New Jersey-only. $35+/monthly, $50+/referral
  * [IoWe (Internet of We)](https://www.InternetOfWe.net) - 50% of HNT earnings, 25% of referral earnings
  * [Loris.club](https://www.loris.club) - 25% of HNT earnings
- * [ZataFi](https://zatafi.com/ShareNet/) - 50% of HNT eearnings
+ * [ZataFi](https://zatafi.com/ShareNet/) - 50% of HNT earnings
 
 
 ## Contribute
