@@ -16,7 +16,7 @@
 
 ## Community
 
-* [Discord](http://discord.gg/helium) - Official Helium Community Discord; many people, very busy 
+* [Discord](http://discord.gg/helium) - Official Helium Community Discord; many people, very busy
 * [Monthly Community Calls](https://docs.google.com/document/d/1bMm2alBigBj3detA775Dn0Gz9UM5XczAeK9vnjBB3l0/edit#) - Noon ET on the last Wednesday of the month
 * [Weekly Helium Hacks Happy Hour](https://zoom.us/meeting/register/tJ0qdeyorDgqHdbWZTQhBSphsFEytiyc5BiP) - Every Wednesday at 3p PT
 
@@ -37,7 +37,7 @@
 * [Hotspotty](https://hotspotty.net) Hotspot management platform
 * [Mylar](https://mylar.app)
 * [Helium Coverage Mapping](https://mappers.helium.com)
-* [Cargo Live Mapper](https://cargo.helium.com/) 
+* [Cargo Live Mapper](https://cargo.helium.com/)
 * [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 * [Helium Chain Variables](https://helium.plus/chain-vars)
 * [LoRa documentation](https://lora.readthedocs.io/en/latest/)
@@ -45,6 +45,14 @@
 * [Patrium](https://patrium.app/) - Another hotspot management platform
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
 * [Helium+](https://helium.plus/) Helium hotspot earnings calculator
+
+### Dashboards
+* [Datacake.co](https://datacake.co/) Enterprise IoT platform
+* Cayenne
+* [Adafruit.io](https://learn.adafruit.com/welcome-to-adafruit-io) - Adafruit.io is a cloud service - that just means we run it for you and you don't have to manage it. You can connect to it over the Internet. It's meant primarily for storing and then retrieving data but it can do a lot more than just that!
+* Ubidots
+* Thingsboard
+* [Node Red](https://nodered.org/)
 
 ### Mobile Apps
 
@@ -81,10 +89,14 @@ Video tutorials
 ### Hotspots
 
 * Helium official hotspot
-* [RAK Hotspot Miner](https://www.calchipconnect.com/products/rak-hotspot-miner)	
+* [RAK Hotspot Miner](https://www.calchipconnect.com/products/rak-hotspot-miner)
 * Dragino LPS8
 * DIY gateway builds
 * ...
+
+### Outdoor Enclosures
+
+* RAK Outdoor Enclosure [RAKWireless Shenzhen](https://store.rakwireless.com/products/outdoor-gateway-enclosure?variant=29748845051949), [Parley Labs (RAK VAR - North America)](https://shop.parleylabs.com/collections/accessories/products/outdoor-gateway-enclosure?variant=37786576781491)
 
 ### Sensor Guides and Tutorial
 
@@ -100,8 +112,10 @@ Video tutorials
 ### Antennas
 
 * [OG Stock Hotspot Antenna](https://www.mouser.com/datasheet/2/238/ant-916-cw-hwr-1633319.pdf) - (pdf datasheet)
-* [RAK 5.8dBi](https://store.rakwireless.com/products/fiber-glass-antenna)
+* 3dBi RAK Stock Replacement Antenna - [RAKWireless Shenzhen](https://store.rakwireless.com/collections/accessories/products/3-dbi-lora-antenna?variant=32429030637613), [Parley Labs (RAK VAR - North America)](https://shop.parleylabs.com/collections/accessories/products/3-dbi-lora-antenna)
+* RAK 5.8dBi [RAKWireless Shenzhen](https://store.rakwireless.com/products/fiber-glass-antenna), [Parley Labs (RAK VAR - North America)](https://shop.parleylabs.com/products/rak-fiber-glass-lorawan-antenna-us915?variant=37264623468723)
   * [5.8 dBi Base support 3D STL File](https://www.thingiverse.com/thing:4607962)
+* RAK 8dBi [RAKWireless Shenzhen](https://store.rakwireless.com/products/fiber-glass-antenna), [Parley Labs (RAK VAR - North America)](https://shop.parleylabs.com/products/rak-fiber-glass-lorawan-antenna-us915?variant=37563940733107)
 * Nearson 9dBi
 * [ANT-916-MHW-RPS-S](https://linxtechnologies.com/wp/wp-content/uploads/ant-916-mhw-fff-x.pdf) - Indoor antenna - pdf
 * ...
