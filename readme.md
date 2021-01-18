@@ -135,6 +135,7 @@ Video tutorials
 ## Education
 
  * [LoRaWAN Academy](https://lora-developers.semtech.com/resources/lorawan-academy/) - self-paced on-demand LoRaWAN training course
+ * [HIP 17 Visualizer](https://hip17.helium.wtf/) - static snapshots of network state visualize the effects of HIP 17 hex density scaling
 
 ## Network Operators
 
