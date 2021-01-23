@@ -25,9 +25,19 @@
 
 * [Blockchain Sync Progress Script](https://github.com/Doginal/helium-network-scripts) - Bash script to get the current progress of your Helium miner running via docker
 
-### Development Environments
+### End Node Device App Development
+#### Development Environments
 
 * [Leroy's Updated & Unofficial CubeCell repo](https://github.com/leroyle/ASR650x-Arduino) - Heltec ASR650x; Heavily improved.
+
+#### Developer Best Practices
+NOTE: These best practices are written targeting non Helium LoRa network providers. Not all of these suggestions necessarily apply to the Helium network but they area probably worth noting. (disclaimer: In no particular order, with no particular recommendation, not all are fully vetted)
+
+* [SemTech: Things to Know](https://lora-developers.semtech.com/library/tech-papers-and-guides/the-book)  
+* [Best Practices: The Things Industries](https://www.thethingsindustries.com/docs/devices/best-practices)    
+* [The Things Network: Best practices for device development](https://www.thethingsnetwork.org/docs/devices/bestpractices.html)  
+* [The Things Network: Best practices to limit application payloads](https://www.thethingsnetwork.org/forum/t/best-practices-to-limit-application-payloads/1302)  
+* [3 best practices for long LoRaWAN battery life: video](https://www.youtube.com/watch?v=3d8lBmkzgfo)  
 
 ### Explorers/Analytics/Hotspot Analysis
 
