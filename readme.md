@@ -28,6 +28,8 @@
 ### Development Environments
 
 * [Leroy's Updated & Unofficial CubeCell repo](https://github.com/leroyle/ASR650x-Arduino) - Heltec ASR650x; Heavily improved.
+* [Leroy's WisBlock sample code](https://github.com/leroyle/longfi-platformio/tree/master/RAKWireless-WisBlock)
+* [LoRaWAN Tracker Example Code](https://github.com/beegee-tokyo/RAK4631-LPWAN-Tracker) - Really good example using WisBlocks
 
 ### Explorers/Analytics/Hotspot Analysis
 
@@ -45,6 +47,7 @@
 * [Patrium](https://patrium.app/) - Another hotspot management platform
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
 * [Helium+](https://helium.plus/) Helium hotspot earnings calculator
+* [Helium.place](https://helium.place/) - Hotspot placement visualization tool
 
 ### Dashboards
 * [Datacake.co](https://datacake.co/) Enterprise IoT platform
@@ -87,9 +90,10 @@ Video tutorials
 ## Hardware
 
 ### Hotspots
-
+* [DeWi Announcement](https://dewialliance.medium.com/accelerating-network-growth-with-three-new-hotspot-manufacturers-3a14b116faca)
 * Helium official hotspot
 * [RAK Hotspot Miner](https://www.calchipconnect.com/products/rak-hotspot-miner)
+* Nebra Miners [Nebra.com](https://www.nebra.com/collections/helium-hotspot-miners-hnt) | [North America (Parley Labs)](https://shop.parleylabs.com/collections/helium-hotspots)
 * Dragino LPS8
 * DIY gateway builds
 * ...
@@ -107,7 +111,7 @@ Video tutorials
 
 ### Coverage Mapping
 
-* [CubeCell Helium Coverage Mapper](https://github.com/jas-williams/CubeCell-Helium-Mapper) - Mapper using the CubeCell w/ GPS/OLED by jas-williams
+* [CubeCell Helium Coverage Mapper](https://github.com/jas-williams/CubeCell-Helium-Mapper) - Mapper using the [CubeCell w/ GPS/OLED](https://shop.parleylabs.com/collections/heltec-cubecell/products/cubecell-gps-6502-by-heltec-htcc-ab02s) by jas-williams
 
 ### Antennas
 
@@ -121,7 +125,7 @@ Video tutorials
 * ...
 
 ### Cables & adapters
-
+* [LMR-400 from USACoax](https://usacoax.com/custom/custom-lmr-400-cable-build.html) - For RAK/Nebra miners to RAK/LorRaWAN antennas use RP-SMA Male to N-Type Female connectors.
 * ...
 
 ## Exchanges
