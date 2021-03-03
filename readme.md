@@ -147,6 +147,7 @@ Interested in hosting a hotspot? Get in touch with one of these companies:
 
  * [Buildmesh.io](https://www.buildmesh.io/) - 20% of HNT earnings plus $10 donation to STEM non-profit
  * [Emrit](https://emrit.io/) – 20% of HNT earnings
+ * [Flywheel Systems] (https://flywheel.systems) – 50% of HNT earnings + referrals. Plus cryptocurrency consulation. 
  * [Hostify](https://www.hostify.cc/) - New Jersey-only. $35+/monthly, $50+/referral
  * [IoWe (Internet of We)](https://www.InternetOfWe.net) - 20% Partner referrals. 50% of HNT earnings after referral [where applicable].
  * [Loris.club](https://www.loris.club) - 25% of HNT earnings
