@@ -58,6 +58,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
 * [Helium+](https://helium.plus/) Helium hotspot earnings calculator
 * [Helium.place](https://helium.place/) - Hotspot placement visualization tool
+* [WhatHeliumRegion](https://whatheliumregion.xyz) - Check the LoRa frequency of a region
 
 ### Dashboards
 * [Datacake.co](https://datacake.co/) Enterprise IoT platform
