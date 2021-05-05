@@ -31,6 +31,7 @@
 * [Leroy's Updated & Unofficial CubeCell repo](https://github.com/leroyle/ASR650x-Arduino) - Heltec ASR650x; Heavily improved.
 * [Leroy's WisBlock sample code](https://github.com/leroyle/longfi-platformio/tree/master/RAKWireless-WisBlock)
 * [LoRaWAN Tracker Example Code](https://github.com/beegee-tokyo/RAK4631-LPWAN-Tracker) - Really good example using WisBlocks
+* [WisBlock Helium Mapper](https://github.com/arkieguy/RAK4631-Helium-Mapper) - Fork of LoRaWAN Tracker modified to work with Helium Cargo and Mapper Ingest.
 
 #### Developer Best Practices
 NOTE: These best practices are written targeting non Helium LoRa network providers. Not all of these suggestions necessarily apply to the Helium network but they area probably worth noting. (disclaimer: In no particular order, with no particular recommendation, not all are fully vetted)
@@ -96,6 +97,7 @@ Video tutorials
 
 * [VolleyBoast VoBo GP1](https://github.com/VolleyBoast/Decoder) - Decodes standard payload
 * [Helium Decoder Repo](https://github.com/helium/console-decoders)
+* [Helium Mapper Decoder](https://github.com/arkieguy/RAK4631-Helium-Mapper/tree/main/.vscode/HeliumDecoder)
 
 
 ## Hardware
