@@ -1,6 +1,6 @@
 # Awesome-Helium [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of all helium projects, tutoriais, and resources.
+> A curated list of all helium projects, tutorials, and resources.
 
 
 ## Contents
@@ -68,6 +68,10 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 * Ubidots
 * Thingsboard
 * [Node Red](https://nodered.org/)
+
+### Home Automation
+
+* [Helium for Home Assistant](https://github.com/rsnodgrass/hass-helium)
 
 ### Mobile Apps
 
