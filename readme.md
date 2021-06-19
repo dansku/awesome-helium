@@ -46,9 +46,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 
 * [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
 * [Helium Network Map](https://network.helium.com)
-* [Sitebot](https://sitebot.com/helium)
-* [Hotspotty](https://hotspotty.net) Hotspot management platform
-* [Mylar](https://mylar.app)
+* [Hotspotty](https://hotspotty.net) - Hotspot management platform
 * [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/)
 * [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
@@ -60,6 +58,8 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 * [Helium+](https://helium.plus/) Helium hotspot earnings calculator
 * [Helium.place](https://helium.place/) - Hotspot placement visualization tool
 * [WhatHeliumRegion](https://whatheliumregion.xyz) - Check the LoRa frequency of a region
+* [Sitebot](https://sitebot.com/helium) - Helium network explorer **discontinued**
+* [Mylar](https://mylar.app) - Great helium analytics **discontinued**
 
 ### Dashboards
 * [Datacake.co](https://datacake.co/) Enterprise IoT platform
