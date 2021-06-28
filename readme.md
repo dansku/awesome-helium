@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/dansku/awesome-helium/master/src/awesome_helium.png)
+![](https://raw.githubusercontent.com/dansku/awesome-helium/master/src/awesome_helium_logo.jpg)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
