@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/dansku/awesome-helium/master/src/awesome_helium.png)
 
-# Awesome-Helium [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-> A curated list of all helium projects, tutorials, and resources.
+A curated list of all helium projects, tutorials, and resources.
 
 
 ## Contents
