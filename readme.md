@@ -67,7 +67,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 * [Datacake.co](https://datacake.co/) Enterprise IoT platform
 * Cayenne
 * [Adafruit.io](https://learn.adafruit.com/welcome-to-adafruit-io) - Adafruit.io is a cloud service - that just means we run it for you and you don't have to manage it. You can connect to it over the Internet. It's meant primarily for storing and then retrieving data but it can do a lot more than just that!
-* Ubidots
+* [Ubidots](https://ubidots.com/) - [blog post](https://ubidots.com/blog/helium-and-ubidots-announce-a-next-level-plug-n-play-partnership-simple-customizable-and-scalable/) - Dashboard for IoT projects.
 * Thingsboard
 * [Node Red](https://nodered.org/)
 
