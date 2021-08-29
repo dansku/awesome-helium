@@ -48,13 +48,14 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 
 * [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
 * [Helium Network Map](https://network.helium.com)
-* [HotspotRF](https://hotspotrf.com) - Improve and optimize Helium hotspot placement using Radio Frequency (RF) modeling.
-* [Hotspotty](https://hotspotty.net) - Hotspot management platform
+* [Hotspotty](https://hotspotty.net) - Hotspotty your all-in-one tool for building the Helium network
+Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings.
 * [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/)
 * [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
 * [Helium Chain Variables](https://helium.plus/chain-vars)
 * [LoRa documentation](https://lora.readthedocs.io/en/latest/)
+* [HotspotRF](https://hotspotrf.com) - Improve and optimize Helium hotspot placement using Radio Frequency (RF) modeling.
 * [Cloud-RF](https://cloudrf.com/) - RF coverage modeling and mapping utility
 * [Patrium](https://patrium.app/) - Another hotspot management platform
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
