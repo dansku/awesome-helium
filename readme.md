@@ -48,6 +48,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 
 * [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
 * [Helium Network Map](https://network.helium.com)
+* [HotspotRF](https://hotspotrf.com) - Improve and optimize Helium hotspot placement using Radio Frequency (RF) modeling.
 * [Hotspotty](https://hotspotty.net) - Hotspot management platform
 * [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/)
