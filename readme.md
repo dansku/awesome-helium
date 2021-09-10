@@ -47,7 +47,6 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 ### Explorers/Analytics/Hotspot Analysis
 
 * [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
-* [Helium Network Map](https://network.helium.com)
 * [Hotspotty](https://hotspotty.net) - Hotspotty your all-in-one tool for building the Helium network
 Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings.
 * [Helium Coverage Mapping](https://mappers.helium.com)
