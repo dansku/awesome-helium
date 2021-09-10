@@ -160,7 +160,6 @@ Video tutorials
 ## Education
 
  * [LoRaWAN Academy](https://lora-developers.semtech.com/resources/lorawan-academy/) - self-paced on-demand LoRaWAN training course
- * [HIP 17 Visualizer](https://hip17.helium.wtf/) - static snapshots of network state visualize the effects of HIP 17 hex density scaling
 
 ## Network Operators
 
@@ -172,7 +171,6 @@ Interested in hosting a hotspot? Get in touch with one of these companies:
  * [Hostify](https://www.hostify.cc/) - New Jersey-only. $35+/monthly, $50+/referral
  * [IoWe (Internet of We)](https://www.InternetOfWe.net) - 20% Partner referrals. 50% of HNT earnings after referral [where applicable].
  * [Loris.club](https://www.loris.club) - 25% of HNT earnings
- * [ZataFi](https://zatafi.com/ShareNet/) - 50% of HNT earnings
 
 
 ## Contribute
