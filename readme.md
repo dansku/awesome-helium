@@ -44,7 +44,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 * [The Things Network: Best practices to limit application payloads](https://www.thethingsnetwork.org/forum/t/best-practices-to-limit-application-payloads/1302)  
 * [3 best practices for long LoRaWAN battery life: video](https://www.youtube.com/watch?v=3d8lBmkzgfo)  
 
-### Explorers/Analytics/Hotspot Analysis
+### Explorers/Analytics/Hotspot Analysis/Monitoring
 
 * [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
 * [Hotspotty](https://hotspotty.net) - Hotspotty your all-in-one tool for building the Helium network
@@ -61,6 +61,7 @@ Understand your hotspot data, plan and manage your hotspots and payouts, collabo
 * [Helium+](https://helium.plus/) Helium hotspot earnings calculator
 * [Helium.place](https://helium.place/) - Hotspot placement visualization tool
 * [WhatHeliumRegion](https://whatheliumregion.xyz) - Check the LoRa frequency of a region
+* [Heliumbot.io](https://heliumbot.io) - Managed hotspot monitoring and profit calculation service providing push notifications
 * [Sitebot](https://sitebot.com/helium) - Helium network explorer **discontinued**
 * [Mylar](https://mylar.app) - Great helium analytics **discontinued**
 
