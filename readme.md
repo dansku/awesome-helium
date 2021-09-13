@@ -65,7 +65,6 @@ Understand your hotspot data, plan and manage your hotspots and payouts, collabo
 * [Sitebot](https://sitebot.com/helium) - Helium network explorer **discontinued**
 * [Mylar](https://mylar.app) - Great helium analytics **discontinued**
 
-
 ### Dashboards
 * [Datacake.co](https://datacake.co/) Enterprise IoT platform
 * Cayenne
