@@ -129,7 +129,8 @@ Video tutorials
 * [Browan TBHH100 Quickstart](https://github.com/mikedsp/helium/blob/master/MyDocuments/HowTo_BrowanTBHH100_to_GoogleSheet-SHARE.pdf)
 * [Connect a RAK7204 to Helium and forward its data to Ubidots](https://www.hackster.io/mariacarlinahernandez/connect-a-rak7204-to-helium-and-forward-its-data-to-ubidots-073793)
 * [KiCAD version of WisBlock-Sensor-RTC-Example](https://github.com/ManuIoT/WisBlock-Sensor-RTC-Example)
-* [Setting up a Dragino LT-22222-L for Helium off-grid](https://github.com/ilovespectra/ilovespectra/tree/main/LT-22222-L)
+* [Dragino LT-22222-L- Helium 'Smart-Plug'](https://github.com/ilovespectra/ilovespectra/tree/main/LT-22222-L)
+* [RAK Weather Monitor- US915 Setup](https://github.com/ilovespectra/ilovespectra/tree/main/RAK4631/Weather-Monitor)
 
 ### Coverage Mapping
 
