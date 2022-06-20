@@ -162,6 +162,7 @@ Video tutorials
 ## Education
 
  * [LoRaWAN Academy](https://lora-developers.semtech.com/resources/lorawan-academy/) - self-paced on-demand LoRaWAN training course
+ * [Helium Hub](https://tanny.gitbook.io/tannys-helium-support/) - Helium Knowledgebase / New articles regularly!
 
 ## Network Operators
 
