@@ -50,6 +50,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 * [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
 * [Hotspotty](https://hotspotty.net) - Hotspotty your all-in-one tool for building the Helium network
 Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings.
+* [HNTScan](https://hntscan.io) - Snappy helium block explorer
 * [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/)
 * [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
