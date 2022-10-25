@@ -61,13 +61,13 @@ Understand your hotspot data, plan and manage your hotspots and payouts, collabo
 * [Patrium](https://patrium.app/) - Another hotspot management platform
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
 * [Helium+](https://helium.plus/) Helium hotspot earnings calculator
-* [Helium.place](https://helium.place/) - Hotspot placement visualization tool
 * [Nebra Region Tool](https://region.nebra.com/) - Check the LoRa frequency of a region
 * [Heliumbot.io](https://heliumbot.io) - Managed hotspot monitoring and profit calculation service providing push notifications
 * [Watchium](https://watchium.disk91.com) - Monitor hotspots failure and anormal states
 * [WioHeliumMonitor](https://github.com/disk91/WioHeliumMonitor) - Monitor your network and your hotspot with a hardware device based on WioTerminal
 * [Sitebot](https://sitebot.com/helium) - Helium network explorer **discontinued**
 * [Mylar](https://mylar.app) - Great helium analytics **discontinued**
+* [Helium.place](https://helium.place/) - Hotspot placement visualization tool **discontinued**
 
 ### Dashboards
 * [Datacake.co](https://datacake.co/) Enterprise IoT platform
