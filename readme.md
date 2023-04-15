@@ -163,6 +163,9 @@ Video tutorials
 
  * [LoRaWAN Academy](https://lora-developers.semtech.com/resources/lorawan-academy/) - self-paced on-demand LoRaWAN training course
  * [Helium Hub](https://tanny.gitbook.io/tannys-helium-support/) - Helium Knowledgebase / New articles regularly!
+* [Helium Solana Support](https://github.com/ilovespectra/helium-solana-support) - Solana Education for Helium network users
+* [Preview Solana Experience](https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/helium-wallet-devnet-sol.md) - Preview Solana in the Helium wallet app, airdrop devnet tokens for testing
+
 
 ## Network Operators
 
