@@ -13,6 +13,7 @@ A curated list of all helium projects, tutorials, and resources.
 - [Exchanges](#exchanges)
 - [Education](#education)
 - [Network Operators](#network-operators)
+- [Network Servers](#network-servers)
 
 ---
 
@@ -49,6 +50,7 @@ NOTE: These best practices are written targeting non Helium LoRa network provide
 * [Helium Explorer](https://explorer.helium.com) Open-source helium explorer
 * [Hotspotty](https://hotspotty.net) - Hotspotty your all-in-one tool for building the Helium network
 Understand your hotspot data, plan and manage your hotspots and payouts, collaborate with the community and your team, optimize network performance and HNT earnings.
+* [HNTScan](https://hntscan.io) - Snappy helium block explorer
 * [Helium Coverage Mapping](https://mappers.helium.com)
 * [Cargo Live Mapper](https://cargo.helium.com/)
 * [Line of sight measurement](https://www.scadacore.com/tools/rf-path/rf-line-of-sight/)
@@ -59,11 +61,13 @@ Understand your hotspot data, plan and manage your hotspots and payouts, collabo
 * [Patrium](https://patrium.app/) - Another hotspot management platform
 * [Mock sensor code to send lorawan otta join](https://github.com/gradoj/sensor)
 * [Helium+](https://helium.plus/) Helium hotspot earnings calculator
-* [Helium.place](https://helium.place/) - Hotspot placement visualization tool
-* [WhatHeliumRegion](https://whatheliumregion.xyz) - Check the LoRa frequency of a region
+* [Nebra Region Tool](https://region.nebra.com/) - Check the LoRa frequency of a region
 * [Heliumbot.io](https://heliumbot.io) - Managed hotspot monitoring and profit calculation service providing push notifications
+* [Watchium](https://watchium.disk91.com) - Monitor hotspots failure and anormal states
+* [WioHeliumMonitor](https://github.com/disk91/WioHeliumMonitor) - Monitor your network and your hotspot with a hardware device based on WioTerminal
 * [Sitebot](https://sitebot.com/helium) - Helium network explorer **discontinued**
 * [Mylar](https://mylar.app) - Great helium analytics **discontinued**
+* [Helium.place](https://helium.place/) - Hotspot placement visualization tool **discontinued**
 
 ### Dashboards
 * [Datacake.co](https://datacake.co/) Enterprise IoT platform
@@ -72,6 +76,7 @@ Understand your hotspot data, plan and manage your hotspots and payouts, collabo
 * [Ubidots](https://ubidots.com/) - [blog post](https://ubidots.com/blog/helium-and-ubidots-announce-a-next-level-plug-n-play-partnership-simple-customizable-and-scalable/) - Dashboard for IoT projects.
 * Thingsboard
 * [Node Red](https://nodered.org/)
+* [Tago.io](https://admin.tago.io) - Up to 5 dashboards for free, really easy to integrate and build with Helium
 
 ### Home Automation
 
@@ -97,7 +102,8 @@ Build tutorials
 * [meshferg/lorawan-helium-diy-gateway_miner](https://github.com/meshferg/lorawan-helium-diy-gateway_miner ) - RAK2245 & rPi4 gateway miner collecting wetlands data
 * [dansku/helium-rak833-pisupply](https://github.com/dansku/helium-rak833-pisupply) PiSupply LoRa Gateway with the RAK833 for Helium.
 Video tutorials
-
+* [disk91/helium-gateway-rs-docker](https://github.com/disk91/helium-gateway-rs-docker) Manage DiY hotspot deployment at scale.
+  
 * [Setting up a Helium miner on DigitalOcean](https://www.youtube.com/watch?v=rR2Z0vOufLM)
 * [Adding a DIY Hotspot to the Helium Blockchain](https://www.youtube.com/watch?v=SzFWSv6UcIE)
 
@@ -135,6 +141,7 @@ Video tutorials
 ### Coverage Mapping
 
 * [CubeCell Helium Coverage Mapper](https://github.com/jas-williams/CubeCell-Helium-Mapper) - Mapper using the [CubeCell w/ GPS/OLED](https://shop.parleylabs.com/collections/heltec-cubecell/products/cubecell-gps-6502-by-heltec-htcc-ab02s) by jas-williams
+* [WioLoRaWanFieldTester](https://github.com/disk91/WioLoRaWANFieldTester) - Mapper using the Wio Terminal.
 
 ### Antennas
 
@@ -163,9 +170,9 @@ Video tutorials
 
  * [LoRaWAN Academy](https://lora-developers.semtech.com/resources/lorawan-academy/) - self-paced on-demand LoRaWAN training course
  * [Helium Hub](https://tanny.gitbook.io/tannys-helium-support/) - Helium Knowledgebase / New articles regularly!
-* [Helium Solana Support](https://github.com/ilovespectra/helium-solana-support) - Solana Education for Helium network users
-* [Preview Solana Experience](https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/helium-wallet-devnet-sol.md) - Preview Solana in the Helium wallet app, airdrop devnet tokens for testing
-
+ * [Helium Solana Support](https://github.com/ilovespectra/helium-solana-support) - Solana Education for Helium network users
+ * [Preview Solana Experience](https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/helium-wallet-devnet-sol.md) - Preview Solana in the Helium wallet app, airdrop devnet tokens for testing
+ * [Disk91.com](https://www.disk91.com/all-about-helium/) - Helium technical blog posts
 
 ## Network Operators
 
@@ -174,10 +181,15 @@ Interested in hosting a hotspot? Get in touch with one of these companies:
  * [Buildmesh.io](https://www.buildmesh.io/) - 20% of HNT earnings plus $10 donation to STEM non-profit
  * [Emrit](https://emrit.io/) – 20% of HNT earnings
  * [Flywheel Systems](https://flywheel.systems) – 50% of HNT earnings + referrals. Plus cryptocurrency consulation. 
- * [Hostify](https://www.hostify.cc/) - New Jersey-only. $35+/monthly, $50+/referral
  * [IoWe (Internet of We)](https://www.InternetOfWe.net) - 20% Partner referrals. 50% of HNT earnings after referral [where applicable].
  * [Loris.club](https://www.loris.club) - 25% of HNT earnings
 
+## Network Servers
+
+Want to connect your devices to an Helium network server (console)
+
+* [Nova console](https://console.helium.com) - up to 10 devices, 250 Dcs
+* [Helium IoT](https://console.helium-iot.eu) - unlimited devices, $0.00005 per DCs
 
 ## Contribute
 
