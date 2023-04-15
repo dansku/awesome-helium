@@ -165,6 +165,7 @@ Video tutorials
  * [Helium Hub](https://tanny.gitbook.io/tannys-helium-support/) - Helium Knowledgebase / New articles regularly!
 * [Helium Solana Support](https://github.com/ilovespectra/helium-solana-support) - Solana Education for Helium network users
 * [Preview Solana Experience](https://github.com/ilovespectra/helium-solana-support/blob/main/walkthroughs/helium-wallet-devnet-sol.md) - Preview Solana in the Helium wallet app, airdrop devnet tokens for testing
+* [NFTs on Solana](https://github.com/ilovespectra/hacks-nfts) - Beginner walkthrough for shipping an NFT collection on Solana
 
 
 ## Network Operators
